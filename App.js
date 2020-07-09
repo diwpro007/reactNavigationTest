@@ -6,5 +6,3 @@ export default class App extends Component {
     return <Feed />;
   }
 }
-
-export default Feed;
